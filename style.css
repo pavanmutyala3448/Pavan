@@ -251,6 +251,8 @@ background-attachment: fixed;
   padding: 10px;
   font-size: 30px;
 }
+.fab{
+  font-size:20px;}
 .contact .btn{
   padding: 10px 25px 10px 25px;
   margin: 5px;
